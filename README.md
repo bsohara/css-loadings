@@ -1,10 +1,23 @@
 # CSS Loadings
 
 ## 📷 Screenshots
-### Codes
+### Code lines
+<details>
+ <summary>Loading 1's code lines</summary>
+  
+ ![image](https://user-images.githubusercontent.com/61017539/110960675-c3ff7d80-832d-11eb-8846-37bbf85b17f7.png)
+
+</details>
+
 
 ### Final Result
-![Resultado CSS Loading 1](https://user-images.githubusercontent.com/61017539/110959045-1344ae80-832c-11eb-9ccf-650fe5df9bf1.gif)
+<details>
+ <summary>Loading 1's result</summary>
+  
+ ![Meu Vídeo](https://user-images.githubusercontent.com/61017539/110960610-afbb8080-832d-11eb-84bb-2636ff833bca.gif)
+
+</details>
+
 
 
 ## ℹ️ About
