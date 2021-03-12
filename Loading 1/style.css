@@ -9,7 +9,7 @@ body {
     left: calc(50% - 50px);
     width: 100px;
     height: 100px;
-    border: 2px solid #aaa;
+    border: 2px solid #fff;
     border-bottom: 2px solid #3498db;
     border-radius: 50%;
     animation: animate 2s linear infinite;
@@ -22,7 +22,7 @@ body {
     left: 10px;
     bottom: 10px;
     right: 10px;
-    border: 2px solid #aaa;
+    border: 2px solid #fff;
     border-bottom: 2px solid #e74c3c;
     border-radius: 50%;
     animation: animate 6s linear infinite;
@@ -35,7 +35,7 @@ body {
     left: 22px;
     bottom: 22px;
     right: 22px;
-    border: 2px solid #aaa;
+    border: 2px solid #fff;
     border-bottom: 2px solid #339933;
     border-radius: 50%;
     animation: animate 4s linear infinite;
