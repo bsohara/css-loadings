@@ -9,6 +9,13 @@
 
 </details>
 
+<details>
+ <summary>Loading 2's code lines</summary>
+  
+ In construction... 🏗️
+ 
+</details>
+
 
 ### Final Result
 <details>
@@ -17,6 +24,14 @@
  ![Meu Vídeo](https://user-images.githubusercontent.com/61017539/110960610-afbb8080-832d-11eb-84bb-2636ff833bca.gif)
 
 </details>
+
+<details>
+ <summary>Loading 2's result</summary>
+  
+ In construction... 🏗️
+
+</details>
+
 
 
 
