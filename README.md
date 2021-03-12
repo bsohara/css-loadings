@@ -1,6 +1,6 @@
 # CSS Loadings
 
-How to make a CSS Loading Animations for your own website / client's system.
+Making and learning about the CSS Loading Animations for your own website / client's system.
 
 ## 📷 Screenshots
 ### Code lines
