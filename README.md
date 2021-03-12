@@ -39,3 +39,6 @@
 -- Learning with many YouTube videos about the CSS Loading creations
 
 ## 🔗 References
+<p> 1. Circular Loading Animation - Html5 CSS3 Loading Page Animation Effects - Pure CSS Tutorials <br>
+
+https://www.youtube.com/watch?v=0Oidmxvr4kU&list=PLoleWehSFzG2hFVzkODVCO7wCwV34rMWj&index=8 </p>
