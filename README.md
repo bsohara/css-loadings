@@ -13,8 +13,15 @@ Making and learning about the CSS Loading Animations for your own website / clie
 
 <details>
  <summary>Loading 2's code lines</summary>
-  
- In construction... 🏗️
+ 
+ • HTML
+
+ ![image](https://user-images.githubusercontent.com/61017539/110996375-9b41ad00-835a-11eb-9cf6-df2a979c01ba.png)
+ 
+ • CSS
+ 
+ ![image](https://user-images.githubusercontent.com/61017539/110996577-e1970c00-835a-11eb-86f4-1bd71ef51689.png)
+
  
 </details>
 
