@@ -1,8 +1,48 @@
 # CSS Loadings
 
+How to make a CSS Loading Animations for your own website / client's system.
+
 ## 📷 Screenshots
-### Codes
+### Code lines
+<details>
+ <summary>Loading 1's code lines</summary>
+  
+ ![image](https://user-images.githubusercontent.com/61017539/110960675-c3ff7d80-832d-11eb-8846-37bbf85b17f7.png)
+
+</details>
+
+<details>
+ <summary>Loading 2's code lines</summary>
+  
+ In construction... 🏗️
+ 
+</details>
+
 
 ### Final Result
+<details>
+ <summary>Loading 1's result</summary>
+  
+ ![Meu Vídeo](https://user-images.githubusercontent.com/61017539/110960610-afbb8080-832d-11eb-84bb-2636ff833bca.gif)
+
+</details>
+
+<details>
+ <summary>Loading 2's result</summary>
+  
+ In construction... 🏗️
+
+</details>
+
+
+
 
 ## ℹ️ About
+-- Learning with many YouTube videos.
+
+-- You can access the links in the 'References' section.
+
+## 🔗 References
+<p> 1. Circular Loading Animation - Html5 CSS3 Loading Page Animation Effects - Pure CSS Tutorials <br>
+
+https://www.youtube.com/watch?v=0Oidmxvr4kU&list=PLoleWehSFzG2hFVzkODVCO7wCwV34rMWj&index=8 </p>
