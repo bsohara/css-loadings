@@ -19,6 +19,47 @@
 
 .loader span:nth-child(1){
     background-color: #544349;
+    animation-delay: 100ms;
+}
+
+.loader span:nth-child(2){
+    background-color: #acd321;
+    animation-delay: 200ms;
+}
+
+.loader span:nth-child(3){
+    background-color: #ad3266;
+    animation-delay: 300ms;
+}
+
+.loader span:nth-child(4){
+    background-color: #44aeff;
+    animation-delay: 400ms;
+}
+
+.loader span:nth-child(5){
+    background-color: #7d3f0a;
+    animation-delay: 500ms;
+}
+
+.loader span:nth-child(6){
+    background-color: #ed3ed2;
+    animation-delay: 600ms;
+}
+
+.loader span:nth-child(7){
+    background-color: #ad577f;
+    animation-delay: 700ms;
+}
+
+.loader span:nth-child(8){
+    background-color: #75dd12;
+    animation-delay: 800ms;
+}
+
+.loader span:nth-child(9){
+    background-color: #e3ad22;
+    animation-delay: 900ms;
 }
 
 @keyframes loading{
