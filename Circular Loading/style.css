@@ -12,7 +12,7 @@ body {
     border: 2px solid #fff;
     border-bottom: 2px solid #3498db;
     border-radius: 50%;
-    animation: animate 2s linear infinite;
+    animation: animate 2's linear infinite;
 }
 
 .loader:before {
